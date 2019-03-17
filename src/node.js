@@ -6,7 +6,7 @@ class Node {
     }
 
     getValue(){
-    	return 42;
+    	return 423;
     }
 }
 
